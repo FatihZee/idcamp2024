@@ -4,6 +4,8 @@ import NoteForm from "./components/NoteForm";
 import SearchBar from "./components/SearchBar";
 import "./App.css";
 
+// Bawaan data dari dicoding
+
 const initialNotes = [
   {
     id: 1,
